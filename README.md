@@ -1,4 +1,4 @@
-Resoluções dos exercícios da aula de Java lecionada pelo professor Wellington no CDD 4.0 - Turma 2022.2
+Resoluções dos exercícios da aula de Arrays em Java, lecionada pelo professor Wellington no CDD 4.0 - Turma 2022.2
 (enunciado das questoes comentado no código)
 
 # Numero da questao - nome do arquivo:
